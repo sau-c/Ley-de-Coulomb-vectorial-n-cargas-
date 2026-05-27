@@ -1,1 +1,1 @@
-Hice esta calculadora en MATLAB para encontrar la fuerza resultante de un sistema de cargas vectorial aplicando la ley de Coulomb
+Hice esta calculadora en MATLAB para encontrar la fuerza resultante de un sistema de cargas vectorial aplicando la ley de Coulomb, la funcion recibe un vector de posiciones y un vector de cargas, tambien lleva un parametro de escala escF para visualizar la fuerza resultante 
